@@ -1,0 +1,22 @@
+[
+    {
+        "_is_template": true,
+        "alias": "Glpi",
+        "name": "glpi",
+        "tags": [
+            "Glpi"
+        ]
+    },
+    {
+        "_is_template": true,
+        "alias": "Glpi",
+        "customs": {
+            "_USERNAME": "admin",
+            "_PASSWORD": "admin"
+        },
+        "name": "glpi-auth",
+        "tags": [
+            "Glpi"
+        ]
+    }
+]
